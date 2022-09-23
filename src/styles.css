@@ -1,0 +1,14 @@
+body {
+  background: #f6f2fe;
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+a {
+  padding: 5px;
+}
+img {
+  max-width: 900px;
+  border-radius: 10px;
+}
